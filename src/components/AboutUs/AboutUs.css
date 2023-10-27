@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    justify-content: space-around; 
+    align-items: center; /* Alinea los elementos en el centro verticalmente */
+  }
+  
+  .container2 {
+    padding: 10px;/* Alinea los elementos en el centro verticalmente */
+  }
+  

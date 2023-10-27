@@ -1,0 +1,26 @@
+/* Footer.css */
+.footer {
+    background-color: black;
+    color: white; /* Cambia el color del texto a blanco para que sea visible en el fondo negro */
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contact-info,
+.social-links {
+    flex: 1;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    display: inline;
+    margin-right: 10px;
+}
